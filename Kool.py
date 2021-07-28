@@ -63,4 +63,3 @@ while i < n:
             incorrect_input = False
 
 cool(k)
-
